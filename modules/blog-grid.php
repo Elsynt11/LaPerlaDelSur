@@ -154,51 +154,6 @@
               </div>
             </div>
           </div>
-  
-        <!--
-          <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
-            <div class="ps-post" data-mh="post">
-              <div class="ps-post__thumbnail"><img src="images/posts/blog-6.jpg" alt=""><a class="ps-post__overlay"
-                  href="/la-perla-del-sur/modules/blog-detail.php"></a></div>
-              <div class="ps-post__content"><span class="ps-post__posted">Marzo 31, 2018</span><a class="ps-post__title"
-                  href="/la-perla-del-sur/modules/blog-detail.php">Festín Visual: La Importancia del Diseño en la Pastelería</a><span class="ps-post__byline">Por<a href="#"> Alena
-                  </a></span>
-                <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches
-                  to corporate strategy foster collaborative thinking to further…</p><a class="ps-post__morelink"
-                  href="/la-perla-del-sur/modules/blog-detail.php">Leer más...</a>
-              </div>
-            </div>
-          </div>
-  
-          <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
-            <div class="ps-post" data-mh="post">
-              <div class="ps-post__thumbnail"><img src="images/posts/blog-7.jpg" alt=""><a class="ps-post__overlay"
-                  href="/la-perla-del-sur/modules/blog-detail.php"></a></div>
-              <div class="ps-post__content"><span class="ps-post__posted">Marzo 31, 2018</span><a class="ps-post__title"
-                  href="/la-perla-del-sur/modules/blog-detail.php">El Dulce Encanto de lo Pequeño: Mini Postres que Deleitan</a><span class="ps-post__byline">Por<a href="#"> Alena
-                  </a></span>
-                <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches
-                  to corporate strategy foster collaborative thinking to further…</p><a class="ps-post__morelink"
-                  href="/la-perla-del-sur/modules/blog-detail.php">Leer más...</a>
-              </div>
-            </div>
-          </div>
-  
-          <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12 ">
-            <div class="ps-post" data-mh="post">
-              <div class="ps-post__thumbnail"><img src="images/posts/blog-8.jpg" alt=""><a class="ps-post__overlay"
-                  href="blog-detail.html"></a></div>
-              <div class="ps-post__content"><span class="ps-post__posted">Marzo 31, 2018</span><a class="ps-post__title"
-                  href="blog-detail.html">Cómo Elegir el Pastel Perfecto para Cada Ocasión: Una Guía Práctica</a><span class="ps-post__byline">Por<a href="#"> Alena
-                  </a></span>
-                <p>Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches
-                  to corporate strategy foster collaborative thinking to further…</p><a class="ps-post__morelink"
-                  href="blog-detail.html">Leer más...</a>
-              </div>
-            </div>
-          </div>
-        -->
-          
         </div>
   
         <section id="paginacion">
